@@ -358,12 +358,12 @@ msgstr "Usuario Ring no válido: %s"
 
 #: src/ringmainwindow.cpp:629
 msgid "Error resolving username, nameserver is possibly unreachable"
-msgstr "Error en la resolución del nombre de usario, el nombre del servidor puede ser inaccesible."
+msgstr "Error resolviendo el nombre de usario, el servidor de nombres puede estar inaccesible."
 
 #: src/ringmainwindow.cpp:643
 #, c-format
 msgid "Could not resolve Ring username: %s"
-msgstr "No se pudo encontrar el usuario Ring: %s"
+msgstr "No se pudo resolver el usuario Ring: %s"
 
 #: src/ringmainwindow.cpp:1152
 msgctxt "button next to search entry will place a new call"
